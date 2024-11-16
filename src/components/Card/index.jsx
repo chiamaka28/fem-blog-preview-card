@@ -2,7 +2,7 @@ import React from 'react';
 
 const Card = () => {
   return (
-    <div className='bg-white shadow-custom-dark  border-2 border-black flex flex-col justify-center items-center w-[90%] max-w-80 md:max-w-[21rem] py-5 px-4 rounded-xl transition duration-300 ease-in-out transform hover:scale-105 hover:shadow-custom-hover'>
+    <div className='bg-white shadow-custom-dark  border-2 border-black flex flex-col justify-center items-center w-[90%] max-w-80 md:max-w-[21rem] py-5 px-4 rounded-xl transition duration-300 ease-in-out transform  hover:shadow-custom-hover'>
       <div className=''>
         <img
           src='/illustration-article.svg'
