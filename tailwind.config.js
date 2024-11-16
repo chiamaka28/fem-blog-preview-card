@@ -12,6 +12,7 @@ export default {
       fontFamily: { sans: ['Figtree', 'sans-serif'] },
       boxShadow: {
         'custom-dark': '0.5rem 0.5rem hsl(0, 0%, 7%)',
+        'custom-hover': '0.8rem 1rem hsl(0, 0%, 7%)',
       },
     },
   },
